@@ -4,7 +4,7 @@ Ce projet est une application web interactive qui permet d'explorer le tableau p
 
 ## 🚀 Démo Live
 
-*[Lien vers votre page GitHub Pages une fois déployée]*
+*[https://alexandremenif.github.io/tableau-periodique-interactif/]* 
 
 ## ✨ Fonctionnalités
 
