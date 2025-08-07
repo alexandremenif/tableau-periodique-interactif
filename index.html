@@ -54,11 +54,13 @@
         }
         #periodic-table-grid {
             display: grid;
-            grid-template-columns: repeat(18, minmax(0, 1fr));
+            grid-template-columns: repeat(18, minmax(65px, 1fr));
             grid-template-rows: repeat(9, auto);
             gap: 5px;
             max-width: 1400px;
             margin: auto;
+            overflow-x: auto;
+            padding-bottom: 10px;
         }
         .element-cell {
             aspect-ratio: 1 / 1.2;
