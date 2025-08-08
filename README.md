@@ -2,6 +2,10 @@
 
 Ce projet est une application web interactive qui permet d'explorer le tableau périodique des éléments et de visualiser la structure de chaque atome en 3D. L'application est entièrement contenue dans un seul fichier HTML et utilise la bibliothèque Three.js pour le rendu 3D.
 
+## Disclaimer
+
+Cette application a été entièrement générée par une intelligence artificielle. Les informations scientifiques et les modèles (Bohr et quantique) présentés peuvent être inexacts ou incomplets. Veuillez ne pas utiliser cette application comme source principale pour des données scientifiques ou des modèles atomiques.
+
 ## 🚀 Démo Live
 
 *[https://alexandremenif.github.io/tableau-periodique-interactif/]* 
